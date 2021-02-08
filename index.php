@@ -1,7 +1,7 @@
 <?php
 include 'Instagram.php';
 
-$access_token = 'IGQVJVVTBHMU5aYlBIREFraDRIMTYzTmp0YU9sV2JnQXpKTzZAUTXRBak9TRWVPRGhWclNJMzZAPQnJqYmlOUlQwQ1JBRkV0ejYzVEUtVHAxWEZAvQUxpYWFnUFo2NmNINGN0c1lKQWhyakQ4TmdyYTh1SgZDZD';
+$access_token = 'YOUR ACCESS TOKEN';
 $Instagram = new Instagram($access_token);
 
 //get user

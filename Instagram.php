@@ -4,7 +4,6 @@
  * Simpel wrapper class for getting posts from Instagram Basic Display API
  *
  * @author     Daniel Gomez-Ortega
- * @copyright  2021 Daniel Gomez-Ortega
  * @link       https://github.com/dannegomez
  * 
  * For more information also see
